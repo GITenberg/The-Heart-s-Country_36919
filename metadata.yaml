@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1683
     wikipedia: http://en.wikipedia.org/wiki/Mary_Heaton_Vorse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36919#The-Heart-s-Country
 gutenberg_issued: '2011-07-31'
 gutenberg_type: Text
 identifiers:
